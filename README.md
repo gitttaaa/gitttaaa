@@ -81,5 +81,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=100&section=footer" width="100%" alt="Pink footer" />
 </p>
 
-<h3 align="center">またね! See you again ♡</h3>
-```
+<!-- <h3 align="center">またね! See you again ♡</h3>
+``` -->
