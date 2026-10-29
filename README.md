@@ -1,4 +1,3 @@
-```html
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y29xMnp3M3M5b2Rzbmxpb2JjMW1zOHR3MWVhMzh6Y2w4aW95aTl5NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBupZrapLgk6mvlvmm/giphy.gif" width="250" alt="Birgita's GIF" />
 </div>
