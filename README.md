@@ -14,7 +14,7 @@
 
 <h2 align="left">🎀 About Me</h2>
 
-<h3 align="center">Hi! I'm Birgita Grecia Haryanto from Indonesia 🇮🇩</h3>
+<h3 align="center">Hi! I'm Birgita Grecia Haryanto</h3>
 
 <h4 align="left">
   - 🎓 I'm a student of SMK Plus Pelita Nusantara.<br>
